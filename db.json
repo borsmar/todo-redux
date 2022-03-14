@@ -1,0 +1,28 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "sdfer atnd er werweut clean app",
+      "task": "sdfer atnd er werweut",
+      "done": true
+    },
+    {
+      "title": "qwerty",
+      "task": "trewq",
+      "done": false,
+      "id": 2
+    },
+    {
+      "title": "1",
+      "task": "1",
+      "done": true,
+      "id": 3
+    },
+    {
+      "title": "3",
+      "task": "3",
+      "done": false,
+      "id": 4
+    }
+  ]
+}
